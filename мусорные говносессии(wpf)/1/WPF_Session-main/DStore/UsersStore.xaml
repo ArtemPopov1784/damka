@@ -1,0 +1,41 @@
+﻿<Window x:Class="DStore.UsersStore"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:DStore"
+    mc:Ignorable="d"
+    Title="UsersStore" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width="3*" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="10*" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <TextBox />
+        <ComboBox Grid.Column="1" />
+        <ListBox x:Name="LbStore" ItemsSource="{Binding YourItemsSource}" Grid.Column="1"
+            Grid.Row="1">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="assets/picture.png" Width="100" Height="100" Grid.Column="1" />
+                        <StackPanel Grid.Column="1" Margin="40 0">
+                            <TextBlock Text="{ Binding Name }" />
+                            <TextBlock Text="{ Binding Description }" />
+                            <TextBlock Text="{ Binding manufacturer }" />
+                            <TextBlock Text="{ Binding price }" />
+                        </StackPanel>
+                        <TextBlock Text="Наличие на складе" Grid.Column="2"
+                            VerticalAlignment="Center" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</Window>

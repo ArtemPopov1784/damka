@@ -1,0 +1,37 @@
+﻿<Window x:Class="DStore.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:DStore"
+    mc:Ignorable="d"
+    Title="MainWindow" Height="450" Width="800"
+    Icon="assets/icon.ico">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width="5*" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Image Source="assets/logo.png" Grid.Column="1" Grid.Row="0" />
+        <TextBlock Text="Авторизация" Foreground="{ StaticResource FocusColorApp }" Grid.Column="1"
+            Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"
+            FontFamily="{ StaticResource MainFontFamilyApp }" />
+        <TextBox x:Name="tbLogin" Grid.Column="1" Foreground="{ StaticResource FocusColorApp }"
+            Grid.Row="2" Margin="20 20" FontFamily="{ StaticResource MainFontFamilyApp }"></TextBox>
+        <PasswordBox x:Name="tbPassword" Grid.Column="1"
+            Foreground="{ StaticResource FocusColorApp }" Grid.Row="3" Margin="20 20"
+            FontFamily="{ StaticResource MainFontFamilyApp }"></PasswordBox>
+        <Button x:Name="singIn" Click="singIn_Click"
+            Background="{ StaticResource AdditionalColorApp }"
+            Foreground="{ StaticResource FocusColorApp }" Content="Авторизоваться" Grid.Column="1"
+            Grid.Row="4" Margin="20 20" FontFamily="{ StaticResource MainFontFamilyApp }" />
+    </Grid>
+</Window>

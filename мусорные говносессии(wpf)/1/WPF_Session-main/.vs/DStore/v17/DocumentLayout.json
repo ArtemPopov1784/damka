@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|c:\\users\\artem\\desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\wpf_session-main\\dstore\\assets\\sql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|solutionrelative:dstore\\assets\\sql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\dstore\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|solutionrelative:dstore\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\dstore\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|solutionrelative:dstore\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\dstore\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|solutionrelative:dstore\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\dstore\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|solutionrelative:dstore\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\dstore\\adminstore.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|solutionrelative:dstore\\adminstore.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\dstore\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|solutionrelative:dstore\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\dstore\\usersstore.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|solutionrelative:dstore\\usersstore.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\dstore\\adminstore.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|solutionrelative:dstore\\adminstore.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\dstore\\usersstore.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|solutionrelative:dstore\\usersstore.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|c:\\users\\artem\\desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\wpf_session-main\\dstore\\assets\\sql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{30EBA856-6A2A-445B-AACB-78190AD25F99}|DStore\\DStore.csproj|solutionrelative:dstore\\assets\\sql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sql.sql ",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\assets\\sql.sql",
+              "RelativeDocumentMoniker": "DStore\\assets\\sql.sql",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\assets\\sql.sql*",
+              "RelativeToolTip": "DStore\\assets\\sql.sql*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-28T16:19:14.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "DStore\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\Models\\Role.cs",
+              "RelativeToolTip": "DStore\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:19:09.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\App.config",
+              "RelativeDocumentMoniker": "DStore\\App.config",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\App.config",
+              "RelativeToolTip": "DStore\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-28T16:19:07.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminStore.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\AdminStore.xaml.cs",
+              "RelativeDocumentMoniker": "DStore\\AdminStore.xaml.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\AdminStore.xaml.cs",
+              "RelativeToolTip": "DStore\\AdminStore.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:19:05.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\App.xaml.cs",
+              "RelativeDocumentMoniker": "DStore\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\App.xaml.cs",
+              "RelativeToolTip": "DStore\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:18:59.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DStore\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DStore\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:18:57.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersStore.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\UsersStore.xaml.cs",
+              "RelativeDocumentMoniker": "DStore\\UsersStore.xaml.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\UsersStore.xaml.cs",
+              "RelativeToolTip": "DStore\\UsersStore.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:18:55.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminStore.xaml",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\AdminStore.xaml",
+              "RelativeDocumentMoniker": "DStore\\AdminStore.xaml",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\AdminStore.xaml",
+              "RelativeToolTip": "DStore\\AdminStore.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T16:18:50.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DStore\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\MainWindow.xaml",
+              "RelativeToolTip": "DStore\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T16:17:14.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersStore.xaml",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\UsersStore.xaml",
+              "RelativeDocumentMoniker": "DStore\\UsersStore.xaml",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\\u0434\u044D\u043C\u043A\u0430\\\u043C\u0443\u0441\u043E\u0440\u043D\u044B\u0435 \u0433\u043E\u0432\u043D\u043E\u0441\u0435\u0441\u0441\u0438\u0438(wpf)\\1\\WPF_Session-main\\DStore\\UsersStore.xaml",
+              "RelativeToolTip": "DStore\\UsersStore.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T16:17:06.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

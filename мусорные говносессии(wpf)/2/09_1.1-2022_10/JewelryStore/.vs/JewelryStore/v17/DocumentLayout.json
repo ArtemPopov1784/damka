@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artem\\source\\repos\\JewelryStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0350ECDE-E24E-4458-8D89-95D1A0CA25E0}|JewelryStore\\JewelryStore.csproj|c:\\users\\artem\\source\\repos\\jewelrystore\\jewelrystore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0350ECDE-E24E-4458-8D89-95D1A0CA25E0}|JewelryStore\\JewelryStore.csproj|solutionrelative:jewelrystore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0350ECDE-E24E-4458-8D89-95D1A0CA25E0}|JewelryStore\\JewelryStore.csproj|c:\\users\\artem\\source\\repos\\jewelrystore\\jewelrystore\\jewelrystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0350ECDE-E24E-4458-8D89-95D1A0CA25E0}|JewelryStore\\JewelryStore.csproj|solutionrelative:jewelrystore\\jewelrystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0350ECDE-E24E-4458-8D89-95D1A0CA25E0}|JewelryStore\\JewelryStore.csproj|c:\\users\\artem\\source\\repos\\jewelrystore\\jewelrystore\\productswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0350ECDE-E24E-4458-8D89-95D1A0CA25E0}|JewelryStore\\JewelryStore.csproj|solutionrelative:jewelrystore\\productswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0350ECDE-E24E-4458-8D89-95D1A0CA25E0}|JewelryStore\\JewelryStore.csproj|c:\\users\\artem\\source\\repos\\jewelrystore\\jewelrystore\\addeditproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0350ECDE-E24E-4458-8D89-95D1A0CA25E0}|JewelryStore\\JewelryStore.csproj|solutionrelative:jewelrystore\\addeditproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0350ECDE-E24E-4458-8D89-95D1A0CA25E0}|JewelryStore\\JewelryStore.csproj|c:\\users\\artem\\source\\repos\\jewelrystore\\jewelrystore\\addeditproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0350ECDE-E24E-4458-8D89-95D1A0CA25E0}|JewelryStore\\JewelryStore.csproj|solutionrelative:jewelrystore\\addeditproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0350ECDE-E24E-4458-8D89-95D1A0CA25E0}|JewelryStore\\JewelryStore.csproj|c:\\users\\artem\\source\\repos\\jewelrystore\\jewelrystore\\productswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0350ECDE-E24E-4458-8D89-95D1A0CA25E0}|JewelryStore\\JewelryStore.csproj|solutionrelative:jewelrystore\\productswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0350ECDE-E24E-4458-8D89-95D1A0CA25E0}|JewelryStore\\JewelryStore.csproj|c:\\users\\artem\\source\\repos\\jewelrystore\\jewelrystore\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0350ECDE-E24E-4458-8D89-95D1A0CA25E0}|JewelryStore\\JewelryStore.csproj|solutionrelative:jewelrystore\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0350ECDE-E24E-4458-8D89-95D1A0CA25E0}|JewelryStore\\JewelryStore.csproj|c:\\users\\artem\\source\\repos\\jewelrystore\\jewelrystore\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0350ECDE-E24E-4458-8D89-95D1A0CA25E0}|JewelryStore\\JewelryStore.csproj|solutionrelative:jewelrystore\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\JewelryStore\\JewelryStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "JewelryStore\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\JewelryStore\\JewelryStore\\Models\\Product.cs",
+              "RelativeToolTip": "JewelryStore\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:27:07.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JewelryStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\JewelryStore\\JewelryStore\\JewelryStoreContext.cs",
+              "RelativeDocumentMoniker": "JewelryStore\\JewelryStoreContext.cs",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\JewelryStore\\JewelryStore\\JewelryStoreContext.cs",
+              "RelativeToolTip": "JewelryStore\\JewelryStoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:26:21.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEditProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\JewelryStore\\JewelryStore\\AddEditProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "JewelryStore\\AddEditProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\JewelryStore\\JewelryStore\\AddEditProductWindow.xaml.cs",
+              "RelativeToolTip": "JewelryStore\\AddEditProductWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:25:45.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\JewelryStore\\JewelryStore\\ProductsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "JewelryStore\\ProductsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\JewelryStore\\JewelryStore\\ProductsWindow.xaml.cs",
+              "RelativeToolTip": "JewelryStore\\ProductsWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:24:11.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEditProductWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\JewelryStore\\JewelryStore\\AddEditProductWindow.xaml",
+              "RelativeDocumentMoniker": "JewelryStore\\AddEditProductWindow.xaml",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\JewelryStore\\JewelryStore\\AddEditProductWindow.xaml",
+              "RelativeToolTip": "JewelryStore\\AddEditProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-07T12:20:25.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\JewelryStore\\JewelryStore\\ProductsWindow.xaml",
+              "RelativeDocumentMoniker": "JewelryStore\\ProductsWindow.xaml",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\JewelryStore\\JewelryStore\\ProductsWindow.xaml",
+              "RelativeToolTip": "JewelryStore\\ProductsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-07T12:19:22.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\JewelryStore\\JewelryStore\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "JewelryStore\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\JewelryStore\\JewelryStore\\MainWindow.xaml",
+              "RelativeToolTip": "JewelryStore\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-07T12:17:40.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\JewelryStore\\JewelryStore\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "JewelryStore\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\JewelryStore\\JewelryStore\\MainWindow.xaml.cs",
+              "RelativeToolTip": "JewelryStore\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwB4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:17:38.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+C:\Users\Aleck\source\repos\DStore\DStore\bin\Debug\DStore.exe.config
+C:\Users\Aleck\source\repos\DStore\DStore\bin\Debug\DStore.exe
+C:\Users\Aleck\source\repos\DStore\DStore\bin\Debug\DStore.pdb
+C:\Users\Aleck\source\repos\DStore\DStore\bin\Debug\EntityFramework.dll
+C:\Users\Aleck\source\repos\DStore\DStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aleck\source\repos\DStore\DStore\bin\Debug\EntityFramework.xml
+C:\Users\Aleck\source\repos\DStore\DStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\DStore.csproj.AssemblyReference.cache
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\DStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\AdminStore.g.cs
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\MainWindow.g.cs
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\UsersStore.g.cs
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\App.g.cs
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\DStore_Content.g.cs
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\DStore_MarkupCompile.cache
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\DStore_MarkupCompile.lref
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\App.baml
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\AdminStore.baml
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\MainWindow.baml
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\UsersStore.baml
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\DStore.g.resources
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\DStore.Properties.Resources.resources
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\DStore.csproj.GenerateResource.cache
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\DStore.csproj.CoreCompileInputs.cache
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\DStore.csproj.CopyComplete
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\DStore.exe
+C:\Users\Aleck\source\repos\DStore\DStore\obj\Debug\DStore.pdb
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\bin\Debug\DStore.exe.config
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\bin\Debug\DStore.exe
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\bin\Debug\DStore.pdb
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\obj\Debug\DStore.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\obj\Debug\AdminStore.g.cs
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\obj\Debug\MainWindow.g.cs
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\obj\Debug\UsersStore.g.cs
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\obj\Debug\App.g.cs
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\obj\Debug\DStore_Content.g.cs
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\obj\Debug\DStore_MarkupCompile.cache
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\obj\Debug\DStore_MarkupCompile.lref
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\obj\Debug\App.baml
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\obj\Debug\AdminStore.baml
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\obj\Debug\MainWindow.baml
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\obj\Debug\UsersStore.baml
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\obj\Debug\DStore.g.resources
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\obj\Debug\DStore.Properties.Resources.resources
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\obj\Debug\DStore.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\obj\Debug\DStore.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\obj\Debug\DStore.exe
+C:\Users\Artem\Desktop\дэмка\мусорные говносессии(wpf)\1\WPF_Session-main\DStore\obj\Debug\DStore.pdb
